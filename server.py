@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from urllib import request
 from flask import Flask, render_template, url_for, request, redirect
 import csv
@@ -40,7 +39,7 @@ def submit_form():
             return "There was an issue submitting the form"
     else:
         return "Please submit the form"
-=======
+
 from urllib import request
 from flask import Flask, render_template, url_for, request, redirect
 import csv
@@ -82,4 +81,4 @@ def submit_form():
             return "There was an issue submitting the form"
     else:
         return "Please submit the form"
->>>>>>> 210393df1972d9de0c67dc54fecc42b764e232e6
+
