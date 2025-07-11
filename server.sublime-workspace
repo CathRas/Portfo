@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Im",
+				"ImageFilter"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"m",
+				"my_file2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bui",
+				"Build With: Python3"
+			],
+			[
+				"build",
+				"Build With: Python3"
+			],
+			[
+				"set s",
+				"Set Syntax: Python3"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 107.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/cathe/Desktop/Machine Learning/ml steps.py",
+		"/C/Users/cathe/Desktop/Server/templates/index.html",
+		"/C/Users/cathe/Downloads/L0x5DF4xlVMF-BfR8bXMIjhLq38.woff2",
+		"/C/Users/cathe/Desktop/Server/style.css",
+		"/C/Users/cathe/Desktop/Server/script.js",
+		"/C/Users/cathe/Desktop/Server/index.html",
+		"/C/Users/cathe/Desktop/image-playground/images.py",
+		"/C/Users/cathe/Downloads/scrape.py",
+		"/C/Users/cathe/Desktop/image-playground/JPG_TO_PNGCONVERTOR.py",
+		"/C/Users/cathe/Desktop/script.py",
+		"/C/Users/cathe/Desktop/test2.py",
+		"/C/Users/cathe/Desktop/test.py",
+		"/C/Users/cathe/Desktop/test2",
+		"/C/Users/cathe/Desktop/main.py",
+		"/C/Users/cathe/Desktop/app/script.py",
+		"/C/Users/cathe/PycharmProjects/regular_expressions/main.py",
+		"/C/Users/cathe/PycharmProjects/PythonProject2/testing_more.py",
+		"/C/Users/cathe/PycharmProjects/PythonProject1/main.py",
+		"/C/Users/cathe/PycharmProjects/modules/utility.py",
+		"/C/Users/cathe/PycharmProjects/out_in/testing.py",
+		"/C/Users/cathe/PycharmProjects/random_game/random_game.py",
+		"/C/Users/cathe/PycharmProjects/translator/main.py",
+		"/C/Users/cathe/PycharmProjects/out_in/app/script.py",
+		"/C/Users/cathe/PycharmProjects/modules/1.py",
+		"/C/Users/cathe/Desktop/random_game.py",
+		"/C/Program Files/Sublime Text/Text",
+		"/C/Program Files/Sublime Text/Sublime",
+		"/C/Users/cathe/Desktop/TEST/webapp/index.html",
+		"/C/Users/cathe/OneDrive/Desktop/Hello_World.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
